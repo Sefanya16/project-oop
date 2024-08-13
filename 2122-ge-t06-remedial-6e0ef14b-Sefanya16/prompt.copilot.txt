@@ -1,0 +1,9 @@
+jelaskan maksudnya 
+ for (Enrollment e : enrollment) {
+                    if (e.getStudent().equals(data[2]) && e.getCourse().equals(data[1]) && e.getAcademicYear().equals(data[3])) {
+                        //jika remedialnya 2 atau 3 kali , mendapat nilai berbeda maka ambil nilai yang paling tinggi 
+                        if (e.getGrade().equals("D") || e.getGrade().equals("C") || e.getGrade().equals("BC") || e.getGrade().equals("B") || e.getGrade().equals("AB") || e.getGrade().equals("A")) {
+                            e.setGrade(data[5]);
+                        }
+buatlah yang di utamakan adalah nilai tertinggi
+utamakan nilai a lalu ab, lalu b, lalu bc, lalu c, lalu d
