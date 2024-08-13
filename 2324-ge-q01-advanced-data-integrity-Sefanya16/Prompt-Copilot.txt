@@ -1,0 +1,5 @@
+The method add(Lecturer) is undefined for the type LecturerJava(67108964), maksudnya adalah 
+kenapa output untuk student add tidak di tampilakn semua ?
+data[5] tidak boleh sama , apa yang harus di buat , agar jika inputtan sama maka yang di print hanya 1
+agar tidak terjadi duplikat
+fix code
