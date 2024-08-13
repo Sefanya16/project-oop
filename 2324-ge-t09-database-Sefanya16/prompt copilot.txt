@@ -1,0 +1,58 @@
+package xdbc;
+
+import java.sql.Connection; import java.sql.DriverManager; import java.sql.PreparedStatement; import java.sql.SQLException; import java.sql.Statement; import java.util.PreparedStatment; import java.util.ResultSet; import java.util.HashMap; import java.util.Map;
+
+public class StudentTranskip extends AbstractDatabase{ public StudentTranskip(String url){ super(url); }
+
+package xdbc;
+
+import java.sql.Connection; import java.sql.DriverManager; import java.sql.PreparedStatement; import java.sql.SQLException; import java.sql.Statement; import java.util.PreparedStatment; import java.util.ResultSet; import java.util.HashMap; import java.util.Map;
+
+public class StudentTranskip extends AbstractDatabase{ public StudentTranskip(String url){ super(url); }
+
+}
+
+lengkapilah kode
+
+sesuaikan untuk pembuatan data base
+
+file yang perlu di buat dalam database ini apa?
+
+perbaiki lah ini
+
+String sql = "INSERT INTO Students (id, name, year, studyProgram, gpa, totalCredit) VALUES (?, ?, ?, ?, ?, ?)"; PreparedStatement pstmt = conn.prepareStatement(sql); pstmt.setString(1, s.getId()); pstmt.setString(2, s.getName()); pstmt.setInt(3, s.getYear()); pstmt.setString(4, s.getStudyProgram()); pstmt.setDouble(5, oldGpa); pstmt.setInt(6, totalCredit); pstmt.executeUpdate();
+
+apakah ini sudah benar?
+
+bagaimana cara melihat tabel yang sudah di buat?
+
+package xdbc;
+
+import java.sql.Connection; import java.sql.DriverManager; import java.sql.PreparedStatement; import java.sql.SQLException;
+
+public class Driver { public static void main(String[] args) { Connection conn = null; PreparedStatement pstmt = null; try { // Register JDBC driver Class.forName("com.mysql.jdbc.Driver");
+
+cara me run data base nya
+
+[{ "resource": "/d:/Stresse/SEMESTER 4/PBO/2324-ge-t09-database-Sefanya16/xdbc/Driver.java", "owner": "generated_diagnostic_collection_name#3", "code": "1610612971", "severity": 8, "message": "Syntax error on token ":", invalid AssignmentOperator", "source": "Java", "startLineNumber": 9, "startColumn": 39, "endLineNumber": 9, "endColumn": 40 },{ "resource": "/d:/Stresse/SEMESTER 4/PBO/2324-ge-t09-database-Sefanya16/xdbc/Driver.java", "owner": "generated_diagnostic_collection_name#3", "code": "32", "severity": 4, "message": "Driver.java is not on the classpath of project t08-transcript, only syntax errors are reported", "source": "Java", "startLineNumber": 1, "startColumn": 1, "endLineNumber": 1, "endColumn": 2 },{ "resource": "/d:/Stresse/SEMESTER 4/PBO/2324-ge-t09-database-Sefanya16/xdbc/StudentTranskip.java", "owner": "generated_diagnostic_collection_name#3", "code": "32", "severity": 4, "message": "StudentTranskip.java is not on the classpath of project t08-transcript, only syntax errors are reported", "source": "Java", "startLineNumber": 1, "startColumn": 1, "endLineNumber": 1, "endColumn": 2 }]
+
+cara conpilenya dengan terminal cmd adalah
+
+ data database = new data("jdbc:sqlite:students.db");
+        ^
+
+    perbaiki database nya
+
+package xdbc;
+
+import java.sql.SQLException;
+
+public class Driver { public static void main(String[] args) { try { StudentTranskip database = new StudentTranskip("jdbc:sqlite::memory:"); database.printAllStudent(); database.printAllCourses(); database.printAllEnrollments(); database.shutdown(); } catch (SQLException sqle) { System.out.println(sqle.getMessage()); } catch (Exception e) { e.printStackTrace(); } } }
+
+sesuaikan dnegan file sqlite_-cbd.jar
+
+
+jelaskan error
+
+buatlah tabel tersebut menyimoan inputan dari kodingan
+
