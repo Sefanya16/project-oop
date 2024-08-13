@@ -1,0 +1,192 @@
+Expected:
+0130058501|Parmonangan Rotua Togatorop|PAT|mona.togatorop@del.ac.id|Information Systems
+0114129002|Iustisia Natalia Simbolon|IUS|iustisia.simbolon@del.ac.id|Informatics
+0124108201|Rosni Lumbantoruan|RSL|rosni@del.ac.id|Information Systems
+12S19003|Dian Filia Matondang|2019|Information Systems
+12S19005|Amelia Jane Audri Lumbanraja|2019|Information Systems
+12S19015|Putri Anyelir BR Tobing|2019|Information Systems
+12S19025|Petrus Aquanur Sinaga|2019|Information Systems
+12S19027|Gilbert E M Hutajulu|2019|Information Systems
+12S19044|Elisabet Margaret Sirait|2019|Information Systems
+12S19055|Dwita Sihombing|2019|Information Systems
+12S19062|Ardika Solagratia Sianturi|2019|Information Systems
+12S20001|Marcelino Manalu|2020|Information Systems
+12S20002|Yoga Sihombing|2020|Information Systems
+12S20003|Marcel Joshua Parulian Simanjuntak|2020|Information Systems
+12S20005|Juan Evander Klose Sitompul|2020|Information Systems
+12S20006|Nadya  Dioranta Tambunan|2020|Information Systems
+12S20007|Rufina Aprilina Sitorus|2020|Information Systems
+12S20008|Putri Rachel Geby Tampubolon|2020|Information Systems
+12S20009|Agnes Marpaung|2020|Information Systems
+12S20010|Suprianto Dharma Sitompul|2020|Information Systems
+12S20011|Gabriel Saputra Panggabean|2020|Information Systems
+12S20012|Ary Gunawan Raja Dirumana Aritonang|2020|Information Systems
+12S20013|Lydia Tesalonika|2020|Information Systems
+12S20014|Lidia Ginting|2020|Information Systems
+12S20015|Niver Titi Sibuea|2020|Information Systems
+12S20016|Via Uni Rosa Sianipar|2020|Information Systems
+12S20017|Lile Asima Manalu|2020|Information Systems
+12S20018|Gabriella Putri Panjaitan|2020|Information Systems
+12S20019|Kristina Margaret Sitorus|2020|Information Systems
+12S20020|Wahyu Krisdangolyanti Simamora|2020|Information Systems
+12S20021|Sintia Lolita Silaen|2020|Information Systems
+12S20022|Agnes Veronika Sihombing|2020|Information Systems
+12S20023|Mares. G.H. Siagian|2020|Information Systems
+12S20024|Sandro Sinaga|2020|Information Systems
+12S20025|Irma Naomi Irene Tampubolon|2020|Information Systems
+12S20026|Mastuari Octafiana Sirumapea|2020|Information Systems
+12S20029|Yehezchiel Abed Rafles Sibuea|2020|Information Systems
+12S20030|Lamsihar Siahaan|2020|Information Systems
+12S20031|Daniel Andres Simangunsong|2020|Information Systems
+12S20032|Permana Gabriel Panjaitan|2020|Information Systems
+12S20034|Daniel Paskah Totti Limbong|2020|Information Systems
+12S20035|Nemnem Sihombing|2020|Information Systems
+12S20036|Winda Sari Butar Butar|2020|Information Systems
+12S20037|Angelita Dumaria Panjaitan|2020|Information Systems
+12S20038|Arni Febryarti Sitorus|2020|Information Systems
+12S20040|Esphi Aphelina Hutabarat|2020|Information Systems
+12S20041|Theresia Agatha Silas Siahaan|2020|Information Systems
+12S20042|Mastawila Febryanti Simanjuntak|2020|Information Systems
+12S20043|Sevia Rajagukguk|2020|Information Systems
+12S20044|Hanna Dhea Christi Sihombing|2020|Information Systems
+12S20045|Christine Hutagaol|2020|Information Systems
+12S20046|Patricia Dian Margaretha S|2020|Information Systems
+12S20047|Ruth Christine Manurung|2020|Information Systems
+12S20048|Jevania|2020|Information Systems
+12S20049|Meida Enggelica Butarbutar|2020|Information Systems
+12S20050|Putri Esrahana Manurung|2020|Information Systems
+12S20051|Rony Samuel Sinaga|2020|Information Systems
+12S20052|Eka Rohani Gultom|2020|Information Systems
+12S20053|Andri Anjelia Hutapea|2020|Information Systems
+12S20054|Rossianna Dewi Sri Hutabarat|2020|Information Systems
+12S20055|Aygrace Lia Hutagaol|2020|Information Systems
+12S20056|Siska Romaito Manullang|2020|Information Systems
+Actual:
+12S19003|Dian Filia Matondang|2019|Information Systems
+12S19005|Amelia Jane Audri Lumbanraja|2019|Information Systems
+12S19015|Putri Anyelir BR Tobing|2019|Information Systems
+12S19025|Petrus Aquanur Sinaga|2019|Information Systems
+12S19027|Gilbert E M Hutajulu|2019|Information Systems
+12S19044|Elisabet Margaret Sirait|2019|Information Systems
+12S19055|Dwita Sihombing|2019|Information Systems
+12S19062|Ardika Solagratia Sianturi|2019|Information Systems
+12S20001|Marcelino Manalu|2020|Information Systems
+12S20002|Yoga Sihombing|2020|Information Systems
+12S20003|Marcel Joshua Parulian Simanjuntak|2020|Information Systems
+12S20005|Juan Evander Klose Sitompul|2020|Information Systems
+12S20006|Nadya  Dioranta Tambunan|2020|Information Systems
+12S20007|Rufina Aprilina Sitorus|2020|Information Systems
+12S20008|Putri Rachel Geby Tampubolon|2020|Information Systems
+12S20009|Agnes Marpaung|2020|Information Systems
+12S20010|Suprianto Dharma Sitompul|2020|Information Systems
+12S20011|Gabriel Saputra Panggabean|2020|Information Systems
+12S20012|Ary Gunawan Raja Dirumana Aritonang|2020|Information Systems
+12S20013|Lydia Tesalonika|2020|Information Systems
+12S20014|Lidia Ginting|2020|Information Systems
+12S20015|Niver Titi Sibuea|2020|Information Systems
+12S20016|Via Uni Rosa Sianipar|2020|Information Systems
+12S20017|Lile Asima Manalu|2020|Information Systems
+12S20018|Gabriella Putri Panjaitan|2020|Information Systems
+12S20019|Kristina Margaret Sitorus|2020|Information Systems
+12S20020|Wahyu Krisdangolyanti Simamora|2020|Information Systems
+12S20021|Sintia Lolita Silaen|2020|Information Systems
+12S20022|Agnes Veronika Sihombing|2020|Information Systems
+12S20023|Mares. G.H. Siagian|2020|Information Systems
+12S20024|Sandro Sinaga|2020|Information Systems
+12S20025|Irma Naomi Irene Tampubolon|2020|Information Systems
+12S20026|Mastuari Octafiana Sirumapea|2020|Information Systems
+12S20029|Yehezchiel Abed Rafles Sibuea|2020|Information Systems
+12S20030|Lamsihar Siahaan|2020|Information Systems
+12S20031|Daniel Andres Simangunsong|2020|Information Systems
+12S20032|Permana Gabriel Panjaitan|2020|Information Systems
+12S20034|Daniel Paskah Totti Limbong|2020|Information Systems
+12S20035|Nemnem Sihombing|2020|Information Systems
+12S20036|Winda Sari Butar Butar|2020|Information Systems
+12S20037|Angelita Dumaria Panjaitan|2020|Information Systems
+12S20038|Arni Febryarti Sitorus|2020|Information Systems
+12S20040|Esphi Aphelina Hutabarat|2020|Information Systems
+12S20041|Theresia Agatha Silas Siahaan|2020|Information Systems
+12S20042|Mastawila Febryanti Simanjuntak|2020|Information Systems
+12S20043|Sevia Rajagukguk|2020|Information Systems
+12S20044|Hanna Dhea Christi Sihombing|2020|Information Systems
+12S20045|Christine Hutagaol|2020|Information Systems
+12S20046|Patricia Dian Margaretha S|2020|Information Systems
+12S20047|Ruth Christine Manurung|2020|Information Systems
+12S20048|Jevania|2020|Information Systems
+12S20049|Meida Enggelica Butarbutar|2020|Information Systems
+12S20050|Putri Esrahana Manurung|2020|Information Systems
+12S20051|Rony Samuel Sinaga|2020|Information Systems
+12S20052|Eka Rohani Gultom|2020|Information Systems
+12S20053|Andri Anjelia Hutapea|2020|Information Systems
+12S20054|Rossianna Dewi Sri Hutabarat|2020|Information Systems
+12S20055|Aygrace Lia Hutagaol|2020|Information Systems
+12S20056|Siska Romaito Manullang|2020|Information Systems
+0130058501|Parmonangan Rotua Togatorop|PAT|mona.togatorop@del.ac.id|Information Systems
+0114129002|Iustisia Natalia Simbolon|IUS|iustisia.simbolon@del.ac.id|Informatics
+0124108201|Rosni Lumbantoruan|RSL|rosni@del.ac.id|Information Systems
+0124108201|Rosni Lumbantoruan|RSL|rosni@del.ac.id|Information Systems
+
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+lecturer-add#0114129002#Iustisia Natalia Simbolon#IUS#iustisia.simbolon@del.ac.id#Informatics
+student-add#12S19003#Dian Filia Matondang#2019#Information Systems
+student-add#12S19005#Amelia Jane Audri Lumbanraja#2019#Information Systems
+student-add#12S19015#Putri Anyelir BR Tobing#2019#Information Systems
+student-add#12S19025#Petrus Aquanur Sinaga#2019#Information Systems
+student-add#12S19027#Gilbert E M Hutajulu#2019#Information Systems
+student-add#12S19044#Elisabet Margaret Sirait#2019#Information Systems
+student-add#12S19055#Dwita Sihombing#2019#Information Systems
+student-add#12S19062#Ardika Solagratia Sianturi#2019#Information Systems
+student-add#12S20001#Marcelino Manalu#2020#Information Systems
+student-add#12S20002#Yoga Sihombing#2020#Information Systems
+student-add#12S20003#Marcel Joshua Parulian Simanjuntak#2020#Information Systems
+student-add#12S20005#Juan Evander Klose Sitompul#2020#Information Systems
+student-add#12S20006#Nadya  Dioranta Tambunan#2020#Information Systems
+student-add#12S20007#Rufina Aprilina Sitorus#2020#Information Systems
+student-add#12S20008#Putri Rachel Geby Tampubolon#2020#Information Systems
+student-add#12S20009#Agnes Marpaung#2020#Information Systems
+student-add#12S20010#Suprianto Dharma Sitompul#2020#Information Systems
+student-add#12S20011#Gabriel Saputra Panggabean#2020#Information Systems
+student-add#12S20012#Ary Gunawan Raja Dirumana Aritonang#2020#Information Systems
+student-add#12S20013#Lydia Tesalonika#2020#Information Systems
+student-add#12S20014#Lidia Ginting#2020#Information Systems
+student-add#12S20015#Niver Titi Sibuea#2020#Information Systems
+student-add#12S20016#Via Uni Rosa Sianipar#2020#Information Systems
+student-add#12S20017#Lile Asima Manalu#2020#Information Systems
+student-add#12S20018#Gabriella Putri Panjaitan#2020#Information Systems
+student-add#12S20019#Kristina Margaret Sitorus#2020#Information Systems
+student-add#12S20020#Wahyu Krisdangolyanti Simamora#2020#Information Systems
+student-add#12S20021#Sintia Lolita Silaen#2020#Information Systems
+student-add#12S20022#Agnes Veronika Sihombing#2020#Information Systems
+student-add#12S20023#Mares. G.H. Siagian#2020#Information Systems
+student-add#12S20024#Sandro Sinaga#2020#Information Systems
+student-add#12S20025#Irma Naomi Irene Tampubolon#2020#Information Systems
+student-add#12S20026#Mastuari Octafiana Sirumapea#2020#Information Systems
+student-add#12S20029#Yehezchiel Abed Rafles Sibuea#2020#Information Systems
+student-add#12S20030#Lamsihar Siahaan#2020#Information Systems
+student-add#12S20031#Daniel Andres Simangunsong#2020#Information Systems
+student-add#12S20032#Permana Gabriel Panjaitan#2020#Information Systems
+student-add#12S20034#Daniel Paskah Totti Limbong#2020#Information Systems
+student-add#12S20035#Nemnem Sihombing#2020#Information Systems
+student-add#12S20036#Winda Sari Butar Butar#2020#Information Systems
+student-add#12S20037#Angelita Dumaria Panjaitan#2020#Information Systems
+student-add#12S20038#Arni Febryarti Sitorus#2020#Information Systems
+student-add#12S20040#Esphi Aphelina Hutabarat#2020#Information Systems
+student-add#12S20041#Theresia Agatha Silas Siahaan#2020#Information Systems
+student-add#12S20042#Mastawila Febryanti Simanjuntak#2020#Information Systems
+student-add#12S20043#Sevia Rajagukguk#2020#Information Systems
+student-add#12S20044#Hanna Dhea Christi Sihombing#2020#Information Systems
+student-add#12S20045#Christine Hutagaol#2020#Information Systems
+student-add#12S20046#Patricia Dian Margaretha S#2020#Information Systems
+student-add#12S20047#Ruth Christine Manurung#2020#Information Systems
+student-add#12S20048#Jevania#2020#Information Systems
+student-add#12S20049#Meida Enggelica Butarbutar#2020#Information Systems
+student-add#12S20050#Putri Esrahana Manurung#2020#Information Systems
+student-add#12S20051#Rony Samuel Sinaga#2020#Information Systems
+lecturer-add#0124108201#Rosni Lumbantoruan#RSL#rosni@del.ac.id#Information Systems
+student-add#12S20052#Eka Rohani Gultom#2020#Information Systems
+student-add#12S20053#Andri Anjelia Hutapea#2020#Information Systems
+student-add#12S20054#Rossianna Dewi Sri Hutabarat#2020#Information Systems
+student-add#12S20055#Aygrace Lia Hutagaol#2020#Information Systems
+lecturer-add#0124108201#Rosni Lumbantoruan#RSL#rosni@del.ac.id#Information Systems
+student-add#12S20056#Siska Romaito Manullang#2020#Information Systems
+---

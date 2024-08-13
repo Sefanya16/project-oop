@@ -1,0 +1,23 @@
+lecturer-add#0110117601#Tennov Simanjuntak#THS#tennov@del.ac.id#Information Systems
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+lecturer-add#0114129002#Iustisia Natalia Simbolon#IUS#iustisia.simbolon@del.ac.id#Informatics
+lecturer-add#0117027901#Arlinta Christy Barus#ACB#arlinta@del.ac.id#Informatics
+lecturer-add#0124108201#Rosni Lumbantoruan#RSL#rosni@del.ac.id#Information Systems
+course-add#12S2102#Basisdata#4#C#PAT,IUS,RSL
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+course-add#12S2201#Analisis dan Desain Sistem#3#C#PAT,ACB
+lecturer-add#0126078702#Guntur Petrus Boy Knight Siboro#GPS#guntur.siboro@del.ac.id#Electrical Engineering
+course-add#10S2101#Algoritma dan Struktur Data#3#C#THS,GPS
+---
+
+0110117601|Tennov Simanjuntak|THS|tennov@del.ac.id|Information Systems
+0130058501|Parmonangan Rotua Togatorop|PAT|mona.togatorop@del.ac.id|Information Systems
+0114129002|Iustisia Natalia Simbolon|IUS|iustisia.simbolon@del.ac.id|Informatics
+0117027901|Arlinta Christy Barus|ACB|arlinta@del.ac.id|Informatics
+0124108201|Rosni Lumbantoruan|RSL|rosni@del.ac.id|Information Systems
+0126078702|Guntur Petrus Boy Knight Siboro|GPS|guntur.siboro@del.ac.id|Electrical Engineering
+12S2102|Basisdata|4|C|PAT (mona.togatorop@del.ac.id);IUS (iustisia.simbolon@del.ac.id);RSL (rosni@del.ac.id)
+12S2201|Analisis dan Desain Sistem|3|C|PAT (mona.togatorop@del.ac.id);ACB (arlinta@del.ac.id)
+10S2101|Algoritma dan Struktur Data|3|C|THS (tennov@del.ac.id);GPS (guntur.siboro@del.ac.id)
+
+     
